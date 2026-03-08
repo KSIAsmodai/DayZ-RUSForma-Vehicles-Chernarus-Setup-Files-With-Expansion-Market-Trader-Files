@@ -3079,6 +3079,30 @@
 		<category name="vehiclesparts"/>
 		<usage name="Industrial"/>
 	</type>
+	<type name="UAZ_3163_migalki_RedBlue">
+		<nominal>0</nominal>
+		<lifetime>3600</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="UAZ_3163_migalki_Orange">
+		<nominal>0</nominal>
+		<lifetime>3600</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
 	<type name="UAZ_3163_doors_driver">
 		<nominal>0</nominal>
 		<lifetime>3600</lifetime>
@@ -5695,7 +5719,7 @@
 		<category name="vehiclesparts"/>
 		<usage name="Industrial"/>
 	</type>
-	<type name="UAZ_27722_mchs_migalka">
+	<type name="UAZ_27722_migalka">
 		<nominal>0</nominal>
 		<lifetime>3600</lifetime>
 		<restock>1800</restock>
