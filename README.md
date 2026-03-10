@@ -13,4 +13,4 @@ https://jsonformatter.org/
 
 https://jsonformatter.org/xml-validator
 
-All you should need besides these files to add Rusforma Vehicles to your Chernarus Map & install a RUSForma PARTS Trader is the mod itself: https://steamcommunity.com/sharedfiles/filedetails/?id=2536888090&searchtext=rusforma
+All you should need besides these files to add Rusforma Vehicles to your Chernarus Map & install a RUSForma Vehicles & Parts Traders is the mod itself: https://steamcommunity.com/sharedfiles/filedetails/?id=2536888090&searchtext=rusforma
